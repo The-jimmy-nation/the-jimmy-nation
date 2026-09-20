@@ -1,3 +1,5 @@
+![Jim’s profile banner](./Github-Banner.png)
+
 # Hey, I’m Jimmy Huang👋
 
 ### Junior Graphic Designer & Aspiring Coder
