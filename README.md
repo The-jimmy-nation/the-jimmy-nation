@@ -1,21 +1,27 @@
-[![bg][banner]][website]
+# Hey, I’m Jimmy Huang👋
 
-### Junior Graphic Designer and Aspiring Coder, currently studying Digital Design and Development at BCIT.
+### Junior Graphic Designer & Aspiring Coder
 
-👨🏼‍💻 Building [Jamesbear.ca][website]  
-🧠 Learning how to code HTML, CSS, and JavaScript
+I’m studying **Digital Design and Development at BCIT**, exploring design, and learning to bring my ideas to life through code.
 
-🏡 [website][website] **|**
-🦋 [bluesky][bluesky] **|**
-🐦 [twitter][twitter] **|**
-📺 [youtube][youtube] **|**
-📷 [instagram][instagram] **|**
-👔 [linkedin][linkedin]
+- 👨🏼‍💻 Building my personal website, [Jamesbear.ca][website]
+- 🧠 Learning **HTML, CSS, and JavaScript**
+- 🎨 Growing my skills in graphic design and web development
 
-[banner]:
-[website](https://Jamesbear.ca)
-[bluesky](https://bsky.app/profile/jim9192001.bsky.social)
-[twitter](https://twitter.com/jim9192001)
-[youtube](https://youtube.com/@the_jimmy_nation)
-[instagram](https://instagram.com/the_Jimmy_Nation)
-[linkedin](https://linkedin.com/in/thejimmynation)
+---
+
+### Find me around the web
+
+[🏡 Website][website] ·
+[🦋 Bluesky][bluesky] ·
+[🐦 Twitter][twitter] ·
+[📺 YouTube][youtube] ·
+[📷 Instagram][instagram] ·
+[👔 LinkedIn][linkedin]
+
+[website]: https://jamesbear.ca
+[bluesky]: https://bsky.app/profile/jim9192001.bsky.social
+[twitter]: https://twitter.com/jim9192001
+[youtube]: https://youtube.com/@the_jimmy_nation
+[instagram]: https://instagram.com/the_Jimmy_Nation
+[linkedin]: https://linkedin.com/in/thejimmynation
