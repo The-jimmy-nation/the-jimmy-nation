@@ -1,16 +1,21 @@
-## Hi there 👋
+[![bg][banner]][website]
 
-<!--
-**The-jimmy-nation/the-jimmy-nation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Graphics Designer and Learning to Code! Currently studying Digital Design and Development at BCIT.
 
-Here are some ideas to get you started:
+👨🏼‍💻 Building [Jamesbear.ca][website]  
+🧠 Learning how to code HTML, CSS, and JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏡 [website][website] **|**
+🦋 [bluesky][bluesky] **|**
+🐦 [twitter][twitter] **|**
+📺 [youtube][youtube] **|**
+📷 [instagram][instagram] **|**
+👔 [linkedin][linkedin]
+
+[banner]:
+[website]: https://Jamesbear.ca
+[bluesky]: https://bsky.app/profile/jim9192001.bsky.social
+[twitter]: https://twitter.com/jim9192001
+[youtube]: https://youtube.com/@the_jimmy_nation
+[instagram]: https://instagram.com/the_Jimmy_Nation
+[linkedin]: https://linkedin.com/in/thejimmynation
